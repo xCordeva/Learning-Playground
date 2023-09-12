@@ -6,6 +6,7 @@ This is my personal space where I've documented my learning journey and showcase
 |---|---|---|
 | [University Website](https://github.com/xCordeva/University-Website) | 5 Pages simple University website | HTML-CSS |
 | [Blockchain Education Website](https://github.com/xCordeva/bootstrap-blockchain-education-website) | One page responsive website built using bootstrap | HTML-CSS-Bootstrap |
+| [Rock Paper Scissors Game](https://github.com/xCordeva/Rock-Paper-Scirssors-Game) | Simple page allows you to play Rock, Paper, Scissors against the computer | JS-HTML-CSS |
 | [Javascript Amazon Clone](https://github.com/xCordeva/javascript-amazon-project) | Amazon clone 4 pages with full functionality | JS-HTML-CSS |
 
 
