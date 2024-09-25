@@ -10,6 +10,7 @@ This is my personal space where I've documented my learning journey and showcase
 | [Javascript Amazon Clone](https://github.com/xCordeva/javascript-amazon-project) | Amazon clone 4 pages with full functionality | JS-HTML-CSS |
 | [My Blog](https://github.com/xCordeva/my-blog-React-JS) | A personal blog project powered by React and Firebase | React-JSX-CSS |
 | [Calendizer](https://github.com/xCordeva/calendizer) | An online planner and organizer to manage schedules, tasks, and events. | Next-React-SASS |
+| [Popcorned](https://github.com/xCordeva/popcorned) | An application for movies and TV shows to explore latest releases, read and write reviews, and keep up with trending content. | Next-React-SASS |
 
 
 ## How to Explore:
